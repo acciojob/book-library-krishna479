@@ -12,10 +12,10 @@ body{
 	background-color:#ffffff;
 }
 
-.bookfooter{
-	background-color:rgb(46, 204, 113);
-	color:white;
-}
+.book{background-color:rgb(46, 204, 113);}
+	
+	
+
 .author{
 	color:#777777;
 	
