@@ -1,23 +1,33 @@
-/*  your css code here. If applicable */
-*{
-	margin:0px;
-	padding:0px;
+body{
+	background-color:#f8f8f8;
 }
 
- body{
-	backgroundcolor:#f8f8f8;
-}
 .book-library{
-	
 	background-color:#ffffff;
+	text-align:center;
 }
-
-.price-block{background-color:rgb(46, 204, 113);}
+.title{
+	background-color: #f8f8f8;
+}
+.book{
+	padding:20px;
+	margin:10px;
+	background-color: #f8f8f8;
 	
-	
-
+}
+.book-name{
+	text-align: left;
+}
 .author{
+	text-align:left;
 	color:#777777;
-	
 }
 
+.price-block{
+	background-color:#2ecc71;
+	text-align:center;
+	border-radius:2px;
+	color: #ffffff;
+	height:20px;
+	padding:15px;
+}
